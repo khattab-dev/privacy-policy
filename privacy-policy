@@ -1,45 +1,146 @@
-Privacy Policy 
-Last updated: 1/23/2026 
-This Privacy Policy explains how El Rewad (“we”, “our”, or “us”) handles information when you use our mobile application (the “App”). 
-1. Information We Collect 
-1.1 Account Information (Employees Only) https://github.com/khattab-dev/privacy-policy/tree/main
-We collect email addresses and passwords only for employees who log in to manage and update orders. 
-This information is used solely for authentication and access control. 1.2 Order Tracking Information 
-Users can track orders using an Order ID without creating an account or logging in. We do not collect personal information from users when they track orders. 
-2. Information We Do NOT Collect 
-We do not collect: 
-● Financial or payment information 
-● Credit/debit card data 
-● Customer personal profiles 
-● Location data 
-● Contacts, photos, or media 
-● Sensitive personal information 
-3. How We Use Information 
-We use the collected information only to: 
-● Authenticate employees 
-● Allow employees to manage and update orders
-● Display order status based on Order ID 
-● Maintain app security and stability 
-4. Data Sharing 
-We do not sell, rent, or share personal data with third parties. Data may be disclosed only if required by law or legal process. 
-5. Data Storage & Security 
-We apply reasonable security measures to protect stored data, including: 
-● Secure authentication mechanisms 
-● Restricted access to employee accounts 
-● Industry-standard security practices 
-6. Data Retention 
-● Employee account data is retained while the account is active. ● Order-related data is retained only as required for operational purposes. 
-Data is deleted or deactivated when no longer needed. 
-7. User Rights 
-Employees may request: 
-● Access to their account data 
-● Correction or deletion of their account 
-Users tracking orders by Order ID do not provide personal data. 8. Children’s Privacy
-The App is not intended for children under the age of 13. We do not knowingly collect personal data from children. 
-9. Changes to This Privacy Policy 
-We may update this Privacy Policy from time to time. Any changes will be posted within the App with an updated date. 
-10. Contact Us 
-If you have questions about this Privacy Policy, contact us: 
-Email: akhattab.iv@gmail.com 
-Company Name: El Rewad 
-Country: Egypt
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - El Rewad</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #222;
+        }
+        h1 {
+            margin-bottom: 5px;
+        }
+        .updated {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 20px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        li {
+            margin-bottom: 6px;
+        }
+        .contact {
+            background: #f1f1f1;
+            padding: 15px;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy</h1>
+    <p class="updated">Last updated: 1/23/2026</p>
+
+    <p>
+        This Privacy Policy explains how <strong>El Rewad</strong> (“we”, “our”, or “us”)
+        handles information when you use our mobile application (the “App”).
+    </p>
+
+    <h2>1. Information We Collect</h2>
+
+    <h3>1.1 Account Information (Employees Only)</h3>
+    <p>
+        We collect email addresses and passwords only for employees who log in to
+        manage and update orders. This information is used solely for authentication
+        and access control.
+    </p>
+
+    <h3>1.2 Order Tracking Information</h3>
+    <p>
+        Users can track orders using an Order ID without creating an account or
+        logging in. We do not collect personal information from users when they track
+        orders.
+    </p>
+
+    <h2>2. Information We Do NOT Collect</h2>
+    <p>We do not collect:</p>
+    <ul>
+        <li>Financial or payment information</li>
+        <li>Credit or debit card data</li>
+        <li>Customer personal profiles</li>
+        <li>Location data</li>
+        <li>Contacts, photos, or media</li>
+        <li>Sensitive personal information</li>
+    </ul>
+
+    <h2>3. How We Use Information</h2>
+    <p>We use the collected information only to:</p>
+    <ul>
+        <li>Authenticate employees</li>
+        <li>Allow employees to manage and update orders</li>
+        <li>Display order status based on Order ID</li>
+        <li>Maintain app security and stability</li>
+    </ul>
+
+    <h2>4. Data Sharing</h2>
+    <p>
+        We do not sell, rent, or share personal data with third parties.
+        Data may be disclosed only if required by law or legal process.
+    </p>
+
+    <h2>5. Data Storage &amp; Security</h2>
+    <p>We apply reasonable security measures to protect stored data, including:</p>
+    <ul>
+        <li>Secure authentication mechanisms</li>
+        <li>Restricted access to employee accounts</li>
+        <li>Industry-standard security practices</li>
+    </ul>
+
+    <h2>6. Data Retention</h2>
+    <ul>
+        <li>Employee account data is retained while the account is active.</li>
+        <li>Order-related data is retained only as required for operational purposes.</li>
+    </ul>
+    <p>Data is deleted or deactivated when no longer needed.</p>
+
+    <h2>7. User Rights</h2>
+    <p>Employees may request:</p>
+    <ul>
+        <li>Access to their account data</li>
+        <li>Correction or deletion of their account</li>
+    </ul>
+    <p>
+        Users tracking orders by Order ID do not provide personal data.
+    </p>
+
+    <h2>8. Children’s Privacy</h2>
+    <p>
+        The App is not intended for children under the age of 13.
+        We do not knowingly collect personal data from children.
+    </p>
+
+    <h2>9. Changes to This Privacy Policy</h2>
+    <p>
+        We may update this Privacy Policy from time to time.
+        Any changes will be posted within the App with an updated date.
+    </p>
+
+    <h2>10. Contact Us</h2>
+    <div class="contact">
+        <p><strong>Email:</strong> akhattab.iv@gmail.com</p>
+        <p><strong>Company Name:</strong> El Rewad</p>
+        <p><strong>Country:</strong> Egypt</p>
+    </div>
+</div>
+
+</body>
+</html>
